@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a blockchain platform
-- 🌱 I’m currently learning architecture design
+- 🌱 I’m currently learning more about architecture design and chinese
 - 🤔 Got something interesting? Don't be shy, tell me.
-- ⚡ Fun fact: Sometimes you have to stop and go back, to move forward.
+
 <!--
 **hanhpp/hanhpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

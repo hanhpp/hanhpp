@@ -2,13 +2,17 @@
 
 I build things with code, and sometimes break things on purpose.
 
+---
+
 By day: software engineer, mostly Go, distributed systems, and the
 occasional smart contract. By night: watching AI agents fight each other
 over who broke the build. Neither of them wrote the code. Both are
 confident.
+
+---
+
 Career goal: CEO of htmx. With 1,232 of us holding the title, the
 org chart is really more of a support group. Applying for seat #1233.
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=go,ts,py,docker,k8s,linux,bash,git,md&perline=9" />
 </a>

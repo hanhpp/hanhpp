@@ -38,8 +38,8 @@ Reverse engineering, Go, microservices, and the occasional chip teardown.
 - **Wuthering Waves**: the dodge button is a lifestyle
 - **miHoYo gachas**: retired. The wallet has made a full recovery.
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanhpp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhpp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages">
+<img src="https://github-readme-stats-two-peach-37.vercel.app/api?username=hanhpp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub stats">
+<img src="https://github-readme-stats-two-peach-37.vercel.app/api/top-langs/?username=hanhpp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages">
 
 <img src="https://streak-stats.demolab.com?user=hanhpp&theme=tokyonight&hide_border=true" width="70%" alt="Contribution streak">
 

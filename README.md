@@ -6,10 +6,8 @@ By day: software engineer, mostly Go, distributed systems, and the
 occasional smart contract. By night: watching AI agents fight each other
 over who broke the build. Neither of them wrote the code. Both are
 confident.
-
-Career goal: CEO of htmx. There are already 1,232 of us, so I'm
-applying to be CEO #1233. The board is one flaming logo, but its
-standards are famously low.
+Career goal: CEO of htmx. There are already 1,232 of us, but the
+vacancy should be a lot. Applying to be CEO #1233.
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=go,ts,py,docker,k8s,linux,bash,git,md&perline=9" />

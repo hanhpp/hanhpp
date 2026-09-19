@@ -22,7 +22,7 @@ org chart is really more of a support group. Applying for seat #1233.
 The best way to learn something is to build it, break it, and then write
 about it so future-me doesn't have to figure it out again.
 
-### I write at [hanhpp.github.io](https://hanhpp.github.io/)
+### I write at [hanhpham.vercel.app](https://hanhpham.vercel.app/)
 
 Reverse engineering, Go, microservices, and the occasional chip teardown.
 
@@ -43,7 +43,8 @@ Reverse engineering, Go, microservices, and the occasional chip teardown.
 
 <img src="https://streak-stats.demolab.com?user=hanhpp&theme=tokyonight&hide_border=true" width="70%" alt="Contribution streak">
 
-### Find me
+### Find me & work contact
 
-- Blog: https://hanhpp.github.io/
+- Work / Inquiries: [hanhphamit@gmail.com](mailto:hanhphamit@gmail.com)
+- Blog: https://hanhpham.vercel.app/
 - LinkedIn: [hanhphamphuoc](https://www.linkedin.com/in/hanhphamphuoc/)

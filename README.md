@@ -26,6 +26,17 @@ about it so future-me doesn't have to figure it out again.
 
 Reverse engineering, Go, microservices, and the occasional chip teardown.
 
+### What I reverse
+
+Hobby, not a job title. I take binaries and firmware apart because I want to know how they work:
+
+- **iOS internals**: Mach-O, the dyld shared cache, and the line between the sandbox and the Secure Enclave
+- **Kernel patching**: how much drift a XNU patch can absorb before it stops matching
+- **CTF binaries**: Flare-On, mostly the ones with anti-analysis tricks
+- **Firmware**: whatever has a UART header and a hopeful attitude
+
+I am not a professional pentester. No engagements, no findings for sale. I do it because I want to know how the thing works, and writing it down is how I check that I actually understood it.
+
 ### Games
 
 - **League of Legends**: my rank is a state secret (jungle diff)
